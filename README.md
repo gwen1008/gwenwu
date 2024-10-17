@@ -10,7 +10,7 @@
 </h2>
 
 # 作業1
-個人網站：https://gwen1008.github.io/gwenwu/<br>
+個人網站：https://gwen1008.github.io/gwenwu/my-portfolio/<br>
 # 作業2
 React：
 
