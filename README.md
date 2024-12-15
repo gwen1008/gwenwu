@@ -13,4 +13,6 @@
 個人網站：https://gwen1008.github.io/gwenwu/my-portfolio/<br>
 # 作業2
 React：https://youtu.be/RxFfrcX3ut4
-
+# 作業3
+影片介紹：https://youtu.be/lJw1_87LJU4
+簡報：https://drive.google.com/file/d/1vGfF7oDf6cfcqQQf0P6eA5dK6oPLJs05/view?usp=sharing
